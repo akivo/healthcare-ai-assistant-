@@ -1,0 +1,34 @@
+# Git ignore file — tells Git what NOT to upload to GitHub
+# This keeps secrets and large files out of your repository
+
+# Environment & secrets
+.env
+
+# Python bytecode (auto-generated, not needed in repo)
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# ChromaDB stored data (large binary files)
+vector_store/
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
