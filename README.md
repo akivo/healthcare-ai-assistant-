@@ -224,4 +224,4 @@ pytest tests/ -v
 
 ---
 
-Built by **[Your Name]** — Mindbowser AI Engineer Hackathon Assignment
+Built by Abhay Rathod — Mindbowser AI Engineer Hackathon Assignment
