@@ -1,0 +1,108 @@
+HIPAA PRIVACY GUIDELINES FOR PATIENTS
+======================================
+City Health Medical Center
+Document Version: 2024-04
+Department: Compliance & Privacy
+
+WHAT IS HIPAA?
+--------------
+The Health Insurance Portability and Accountability Act (HIPAA) is a
+U.S. federal law that protects the privacy and security of your health
+information. At City Health Medical Center, we are committed to
+safeguarding your Protected Health Information (PHI) in compliance
+with all HIPAA regulations.
+
+WHAT IS PROTECTED HEALTH INFORMATION (PHI)?
+--------------------------------------------
+PHI includes any information that could identify you and relates to:
+- Your past, present, or future physical or mental health condition
+- Healthcare services provided to you
+- Payment for healthcare services
+
+Examples of PHI:
+- Your name, address, phone number, email, or date of birth
+- Medical record numbers, account numbers
+- Diagnoses, medications, lab results
+- Doctor's notes and treatment plans
+- Images like X-rays or photographs
+
+HOW WE USE AND SHARE YOUR INFORMATION
+---------------------------------------
+We may use and share your PHI for the following purposes WITHOUT
+requiring your specific permission:
+1. TREATMENT: Sharing information with your care team to provide
+   coordinated care.
+2. PAYMENT: Submitting claims to your insurance company for billing.
+3. HEALTHCARE OPERATIONS: Quality reviews, training, and administrative
+   functions.
+
+We MAY share your PHI with:
+- Other treating physicians involved in your care
+- Laboratories, pharmacies, and imaging centers
+- Insurance companies for claims processing
+- Public health authorities (for disease reporting, as required by law)
+
+We will NOT share your PHI for the following without your written
+authorization:
+- Marketing purposes
+- Sale of your health information
+- Most sharing with your employer
+- Sharing with family members (unless you authorize it)
+
+YOUR RIGHTS UNDER HIPAA
+------------------------
+You have the following rights regarding your health information:
+
+1. RIGHT TO ACCESS: You may request a copy of your medical records.
+   Requests are processed within 30 days. A reasonable fee may apply
+   for copies. Contact the Medical Records department to request access.
+
+2. RIGHT TO AMEND: If you believe your health information is incorrect
+   or incomplete, you may request a correction. We may deny the request
+   if the information was not created by us.
+
+3. RIGHT TO ACCOUNTING OF DISCLOSURES: You may request a list of
+   instances where we have shared your PHI for purposes other than
+   treatment, payment, or operations.
+
+4. RIGHT TO REQUEST RESTRICTIONS: You may ask us to limit how we use or
+   share your information. We are not required to agree, but if we do,
+   we must honor the restriction.
+
+5. RIGHT TO CONFIDENTIAL COMMUNICATIONS: You may request that we contact
+   you only in certain ways (e.g., call only your cell phone, not home).
+
+6. RIGHT TO FILE A COMPLAINT: If you believe your privacy rights have
+   been violated, you may file a complaint with:
+   - Our Privacy Officer (see contact below), or
+   - The U.S. Department of Health & Human Services (HHS) at hhs.gov/ocr
+
+   Filing a complaint will NOT affect your care.
+
+DATA SECURITY
+-------------
+We protect your PHI through:
+- Encrypted electronic health records (EHR) systems
+- Role-based access controls (only staff who need your data can see it)
+- Regular staff training on HIPAA compliance
+- Secure disposal of paper records (shredding)
+- Audit logs tracking who accesses your records and when
+
+BREACH NOTIFICATION
+-------------------
+If we discover a breach of your unsecured PHI, we are legally required
+to notify you within 60 days of discovery. Notification will include:
+- What happened
+- What information was involved
+- What we are doing to investigate and protect you
+- What you can do to protect yourself
+
+PRIVACY OFFICER CONTACT
+-----------------------
+Privacy Officer: City Health Medical Center Compliance Department
+Phone: (800) 555-PRIV
+Email: privacy@cityhealthmc.org
+Address: 100 Health Blvd, Suite 200, Cityville, CA 90000
+Hours: Monday–Friday 9:00 AM – 5:00 PM
+
+For general questions about your rights, visit: hhs.gov/hipaa

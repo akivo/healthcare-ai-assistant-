@@ -1,0 +1,104 @@
+MEDICATION REFILL POLICY
+=========================
+City Health Medical Center
+Document Version: 2024-05
+Department: Pharmacy & Clinical Services
+
+OVERVIEW
+--------
+This policy outlines the process for requesting and receiving prescription
+medication refills at City Health Medical Center. Following these guidelines
+ensures patient safety and compliance with applicable healthcare regulations.
+
+HOW TO REQUEST A MEDICATION REFILL
+------------------------------------
+Patients may request refills through the following channels:
+
+1. PATIENT PORTAL: Log in at myhealthportal.cityhealthmc.org and
+   submit a refill request under "Medications." Requests are processed
+   within 2–3 business days.
+
+2. PHARMACY: Contact our in-house pharmacy at (800) 555-RXRX. For
+   existing prescriptions at external pharmacies, ask your pharmacy to
+   send an electronic refill request to your prescribing physician.
+
+3. PHONE: Call your care team's nurse line at (800) 555-CARE and leave
+   a refill request message. Include your name, date of birth, medication
+   name, and pharmacy details.
+
+4. TELEHEALTH: Medication refill requests may be reviewed and approved
+   during a telehealth (virtual) visit, provided the medication is already
+   prescribed and does not require an in-person physical evaluation.
+   Telehealth refills are subject to physician discretion.
+
+PROCESSING TIME
+---------------
+- Standard refills: 2–3 business days
+- Urgent refills: Same day or next day (call the nurse line directly)
+- Specialty medications: Up to 5–7 business days (may require prior
+  authorization from insurance)
+
+REFILL ELIGIBILITY REQUIREMENTS
+---------------------------------
+A refill request will be honored only when:
+- The medication was originally prescribed by a City Health physician
+  or approved provider
+- The prescription is still clinically appropriate based on your
+  current health status
+- There are authorized refills remaining on your prescription
+- Any required follow-up appointments have been completed
+- Lab work (if required, e.g., for blood pressure medications, thyroid,
+  diabetes drugs) is up to date
+
+CONTROLLED SUBSTANCES
+---------------------
+IMPORTANT: Controlled substances (e.g., opioid pain medications,
+benzodiazepines, stimulants for ADHD) are subject to STRICT regulations:
+
+- Refills for controlled substances CANNOT be processed via the patient
+  portal or phone message alone.
+- An in-person or telehealth visit with your prescribing physician is
+  REQUIRED before each refill of Schedule II controlled substances.
+- Prescriptions for Schedule II medications (e.g., oxycodone, Adderall)
+  cannot be refilled; a new prescription must be issued at each visit.
+- All controlled substance prescriptions are monitored through the
+  state Prescription Drug Monitoring Program (PDMP).
+
+AUTO-REFILL PROGRAM
+--------------------
+Patients on long-term maintenance medications (e.g., blood pressure,
+cholesterol, thyroid, diabetes medications) may enroll in our Auto-Refill
+Program:
+- Prescriptions are automatically refilled 7–10 days before running out
+- Available for non-controlled medications only
+- Requires an active prescription with refills on file
+- Enroll via the patient portal or call the pharmacy
+
+To enroll: Log into myhealthportal.cityhealthmc.org → Medications →
+Enable Auto-Refill.
+
+PRIOR AUTHORIZATION FOR REFILLS
+---------------------------------
+Some medications require prior authorization (approval from your insurance
+before the prescription can be filled). In these cases:
+- Our pharmacy team initiates the prior authorization request
+- This can take 3–5 business days
+- You will be notified once approved or if an alternative is needed
+- Do not run out of medication while waiting — plan refills in advance
+
+WHAT HAPPENS IF A REFILL IS DENIED?
+--------------------------------------
+If a refill request is denied, possible reasons include:
+- No authorized refills remaining (new appointment may be required)
+- Outstanding lab work or follow-up visits overdue
+- Insurance prior authorization required
+- Medication discontinued by your physician
+
+Contact your care team for next steps at (800) 555-CARE.
+
+CONTACT
+-------
+Pharmacy: (800) 555-RXRX
+Patient Portal: myhealthportal.cityhealthmc.org
+Nurse Line: (800) 555-CARE
+Hours: Monday–Friday 8:00 AM – 6:00 PM, Saturday 9:00 AM – 1:00 PM

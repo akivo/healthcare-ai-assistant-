@@ -1,0 +1,120 @@
+TELEHEALTH CONSULTATION GUIDELINES
+====================================
+City Health Medical Center
+Document Version: 2024-06
+Department: Digital Health & Telehealth Services
+
+WHAT IS TELEHEALTH?
+--------------------
+Telehealth (also called telemedicine or virtual care) allows patients
+to consult with their healthcare provider using video, phone, or
+secure messaging — without visiting the clinic in person.
+City Health Medical Center's telehealth platform provides secure,
+HIPAA-compliant virtual consultations.
+
+WHO IS ELIGIBLE FOR TELEHEALTH VISITS?
+----------------------------------------
+Telehealth services are available to:
+- Established patients of City Health Medical Center
+- New patients for general medicine consultations (specialty referrals
+  may still require in-person evaluation first)
+- Patients with stable, chronic conditions for routine follow-ups
+- Patients seeking non-emergency acute care (cold, flu, rash, UTI, etc.)
+- Patients requesting medication refills (see Medication Refill Policy)
+- Patients requiring mental health or counseling sessions
+
+Telehealth is NOT appropriate for:
+- Medical emergencies (call 911)
+- Conditions requiring physical examination (e.g., abdominal pain,
+  orthopedic injuries, cardiac evaluation)
+- Procedures, injections, or lab work
+- First-time consultations for complex or undiagnosed conditions
+  (at provider discretion)
+
+TECHNOLOGY REQUIREMENTS
+------------------------
+To participate in a telehealth visit, you will need:
+- A smartphone, tablet, or computer with a working camera and microphone
+- A stable internet connection (minimum 5 Mbps recommended)
+- The CityHealth Patient mobile app (iOS/Android) or a modern web browser
+  (Chrome, Firefox, Safari, Edge)
+
+SCHEDULING A TELEHEALTH APPOINTMENT
+--------------------------------------
+1. Log in to the patient portal at myhealthportal.cityhealthmc.org
+2. Select "Schedule Appointment" → Choose "Telehealth/Virtual Visit"
+3. Select department and preferred date/time
+4. You will receive a secure video link via email and SMS
+5. Click the link 5 minutes before your appointment time to join
+
+Same-day telehealth appointments may be available — call (800) 555-CARE
+to check availability.
+
+WHAT TO EXPECT DURING YOUR VIRTUAL VISIT
+------------------------------------------
+- Your visit will begin within 5–10 minutes of the scheduled time
+- Have your insurance card, photo ID, and medication list ready
+- The provider may ask you to show symptoms via camera (rash, swelling, etc.)
+- You will receive a visit summary and any new prescriptions via the portal
+- Follow-up appointments will be scheduled if needed
+
+PRESCRIPTIONS AND MEDICATION REFILLS VIA TELEHEALTH
+------------------------------------------------------
+Providers may prescribe or refill certain medications during telehealth visits:
+
+ALLOWED via Telehealth:
+- Refills for existing, stable medications (blood pressure, diabetes,
+  thyroid, cholesterol, etc.)
+- New prescriptions for common conditions (antibiotics, antihistamines,
+  anti-inflammatory medications)
+- Mental health medications (for established patients under psychiatric care)
+
+NOT ALLOWED via Telehealth:
+- Schedule II controlled substances (opioids, certain ADHD medications)
+  — these require in-person evaluation
+- Medications requiring physical examination before prescribing
+- New controlled substance prescriptions for new patients
+
+INSURANCE AND COVERAGE
+-----------------------
+Most major insurance plans now cover telehealth visits, especially
+post-COVID-19 legislative changes. Coverage may vary by plan:
+- Medicare: Covers telehealth for most services
+- Medicaid: Coverage varies by state — contact your plan
+- Commercial Insurance: Most plans cover telehealth at the same
+  copay as in-person visits
+
+Call your insurance provider to confirm telehealth coverage before
+your appointment. Self-pay rates are available — contact Patient
+Financial Services at (800) 555-BILL.
+
+PRIVACY AND SECURITY
+---------------------
+All telehealth visits are conducted over a HIPAA-compliant, encrypted
+platform. Your visit is private and secure. We recommend:
+- Joining from a private, quiet location
+- Using a personal device (not shared/public)
+- Using a private Wi-Fi network, not public Wi-Fi
+- Not recording the session without provider consent
+
+TECHNICAL DIFFICULTIES
+-----------------------
+If you experience technical issues during your visit:
+- Try refreshing the browser or restarting the app
+- Check your internet connection
+- If the video fails, the provider may switch to a phone call
+- Contact technical support: techsupport@cityhealthmc.org or
+  call (800) 555-TECH
+
+CANCELLATION POLICY
+-------------------
+Telehealth appointments follow the same cancellation policy as in-person
+visits. Please cancel at least 24 hours in advance to avoid a no-show fee.
+
+CONTACT
+-------
+Telehealth Support: (800) 555-TELE
+Patient Portal: myhealthportal.cityhealthmc.org
+Technical Support: (800) 555-TECH
+Hours: Monday–Friday 7:00 AM – 8:00 PM, Saturday–Sunday 8:00 AM – 4:00 PM
+Emergency: 911
